@@ -1,16 +1,14 @@
-### Hi there 👋
+- 👋 Hi, I’m Emanuele
+- 👀 I’m interested in ice cream.
 
-<!--
-**Emuserrati/Emuserrati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+### Some Stats - 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div align="center">
+  <div>
+    <img alt="Emanuele's Github Stats" src="https://github-readme-stats.vercel.app/api?username=emuserrati&show_icons=true&theme=radical" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emuserrati&theme=radical&layout=compact&hide=jupyter%20notebook,swig,dart"/>
+    <br />
+  </div>
+</div>
